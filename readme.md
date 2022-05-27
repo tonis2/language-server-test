@@ -1,3 +1,3 @@
 Using this tutorial
 
-https://www.toptal.com/javascript/language-server-protocol-tutorial
+https://code.visualstudio.com/api/language-extensions/language-server-extension-guide
