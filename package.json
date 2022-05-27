@@ -1,0 +1,23 @@
+{
+  "name": "language-server-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonis2/language-server-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonis2/language-server-test/issues"
+  },
+  "homepage": "https://github.com/tonis2/language-server-test#readme",
+  "dependencies": {
+    "vscode-languageserver": "^8.0.1",
+    "vscode-languageserver-textdocument": "^1.0.4"
+  }
+}
